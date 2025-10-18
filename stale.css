@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+}
+
+H1{
+    font-size: 50;
+    color: brown;
+}
+
+footer p{
+    background-color: chartreuse;
+    color: black;
+}
+
+nav a{
+
+    text-decoration: none;
+    background-color: blue;
+    color: black;
+    border: 3px solid  blue;
+}
+
+nav{
+
+    margin: 40px;
+}
+
+.product{
+
+    background-color:white ;
+    color: blue;
+}
